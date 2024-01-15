@@ -1,4 +1,4 @@
-﻿# Automação Web com Whatsapp
+﻿# Automação Web com Whatsapp <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/> 
  
 ### Este código em Python utiliza a biblioteca Selenium para automatizar o envio de mensagens pelo WhatsApp Web.
 
